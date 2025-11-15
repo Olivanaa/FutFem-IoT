@@ -48,7 +48,7 @@ npm install
 ### 🔹 3. Executar o Servidor JSON (Mock de Quadras)
 
 ```bash
-json-server --watch db.json --port 3000
+json-server --watch db.json --port 3001
 ```
 
 ### 🔹 4. Rodar o Projeto React
